@@ -1,0 +1,3 @@
+endpoint-url,documentation-url,organisation,pipeline,licence,plugins,start-date
+https://raw.githubusercontent.com/digital-land/design-code-data/main/data/design-code.csv,https://github.com/digital-land/design-code-data,government-organisation:D1342,design-code,,,2024-06-06
+https://raw.githubusercontent.com/digital-land/design-code-data/main/data/design-code-rule.csv,https://github.com/digital-land/design-code-data,government-organisation:D1342,design-code-rule,,,2024-06-06
